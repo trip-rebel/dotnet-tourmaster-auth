@@ -5,7 +5,7 @@
   },
 
   "dependencies": {
-    "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.13.5",
+    "IdentityModel": "2.5.0",
     "Microsoft.NETCore.App": {
       "type": "platform",
       "version": "1.0.0"
